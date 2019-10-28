@@ -40,6 +40,7 @@ $(document).ready(function(){
 	//focus y blur
 
 	var nombre = $("#nombre");
+	var datos  = $("#datos");
 
 	nombre.focus(function(){
 		$(this).css("border", "2px solid green");
@@ -48,5 +49,21 @@ $(document).ready(function(){
 	nombre.blur(function(){
 		$(this).css("border", "2px solid transparent");
 	});
+
+	//Mouse Down Mouse up
+	datos.mousedown(function(){
+		$(this).css("border-color", "green");
+	});
+	datos.mouseup(function(){
+		$(this).css("border-color", "black");
+	});
+
+	//Mousemove
+	$(document).mousemove(function(){
+		var sigueme = $("#sigueme");
+		console.log();
+		sigueme.css("left", event.clientX);
+		sigueme.css("top", event.clientY);
+	}); 
 
 });

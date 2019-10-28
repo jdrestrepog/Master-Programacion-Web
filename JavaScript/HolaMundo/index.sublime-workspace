@@ -192,13 +192,13 @@
 			}
 		},
 		{
-			"contents": "Riodejaneiro2019.\n\nFE\nTKCLUMHURTA\nBclumi33*\n\nTKCCAANPINE\nNoviembre2019*\n\nselfservice_user\ncontrolm\n\n\nFebrero2019#321\nFebrero#321\nOctubre2019**\nAbril#321\nUshuaia2019*\nPeru2020*\nRio2020*\nOctubre**2019\n\nInicio.00\nInicio.00\n\n\nFelipe2018*\n\nPI Producción\nEACASTRI\nAbril2019*\n\nTKCCAANPINE\nMayo2019**\n\nCRAZAPAT\nClavenueva2019*\n3240\n\nPI\t\nFebrero2018* \nkjgomez \n\nCANALESRFC\nCANALESRFC.2015\n\n172.25.25.19\nproxywsmed.bancolombis.corp\nsap\t\nNoviembre03*2017\n\nPIMONITOR\nColombia2018*\n\nkjgomez\nFebrero2018*\nJulio2018*\n\n\ncaanpine\nJaqeja_10\n\nEacastri\nAbril2019*\n\nSolucion error outlook \nhttps://www.petenetlive.com/KB/Article/0001549\n\nBT125H_TASK/TaskDetails\nBTSTATUS\nSTRUCT.ACT_STATUS\n\nBT125H_TASK/TaskOVViewset\n\nZCL_IM_EN206_ACTION_VINC\nIF_EX_EXEC_METHODCALL_PPF~EXECUTE\n\nBPFS_HEAD/Details\nCAMPOAMPL\nZZEDO_VINC_NEW\n\n\nCreating a Fiori App in Eclipse accessing SAP on IBM z Systems\n\nSAP CRM (Desarrollo, Certificacion, Productivo), SAP PI (Desarrollo, Certificacion, Productivo), iSeries Medellin,USD, USM, Solman Producción, SAP CRM FE, SAP PI FE (Desarrollo, Certificacion, Productivo). Citrix, Chat MATEO, Filezilla\nhttps://controlm-serv.bancolombia.corp:8443/ControlM/ \nhttp://vsc.bancolombia.corp/vsti/Lists/Procesos/Ambientes.aspx\n\n\nFDT_WORKBENCH\n\nsegmentacion 2019\n\n8000005566\n\n\nCRMDI01VTAEC1.... Se quedo esperando por CRMDI01ESTCLI que se encuentra en estado fallido\nCRMDI01VTAFE00\n\nTu número de caso es 16825563. desbloqueo usuario de controlm\n\nIntegracion de IBM\n\nabdias...\nSandra Carolina Sepúlveda\n\n3147262705\n\n\n16825414...12:03\n\n",
+			"contents": "Riodejaneiro2019.\n\nFE\nTKCLUMHURTA\nBclumi33*\n\nTKCCAANPINE\nNoviembre2019*\n\nselfservice_user\ncontrolm\n\n\nFebrero2019#321\nFebrero#321\nOctubre2019**\nAbril#321\nUshuaia2019*\nPeru2020*\nRio2020*\nOctubre**2019\n\nInicio.00\nInicio.00\n\n\nFelipe2018*\n\nPI Producción\nEACASTRI\nAbril2019*\n\nTKCCAANPINE\nMayo2019**\n\nCRAZAPAT\nClavenueva2019*\n3240\n\nPI\t\nFebrero2018* \nkjgomez \n\nCANALESRFC\nCANALESRFC.2015\n\n172.25.25.19\nproxywsmed.bancolombis.corp\nsap\t\nNoviembre03*2017\n\nPIMONITOR\nColombia2018*\n\nkjgomez\nFebrero2018*\nJulio2018*\n\n\ncaanpine\nJaqeja_10\n\nEacastri\nAbril2019*\n\nSolucion error outlook \nhttps://www.petenetlive.com/KB/Article/0001549\n\nBT125H_TASK/TaskDetails\nBTSTATUS\nSTRUCT.ACT_STATUS\n\nBT125H_TASK/TaskOVViewset\n\nZCL_IM_EN206_ACTION_VINC\nIF_EX_EXEC_METHODCALL_PPF~EXECUTE\n\nBPFS_HEAD/Details\nCAMPOAMPL\nZZEDO_VINC_NEW\n\n\nCreating a Fiori App in Eclipse accessing SAP on IBM z Systems\n\nSAP CRM (Desarrollo, Certificacion, Productivo), SAP PI (Desarrollo, Certificacion, Productivo), iSeries Medellin,USD, USM, Solman Producción, SAP CRM FE, SAP PI FE (Desarrollo, Certificacion, Productivo). Citrix, Chat MATEO, Filezilla\nhttps://controlm-serv.bancolombia.corp:8443/ControlM/ \nhttp://vsc.bancolombia.corp/vsti/Lists/Procesos/Ambientes.aspx\n\n\nFDT_WORKBENCH\n\nsegmentacion 2019\n\n8000005566\n\n\nCRMDI01VTAEC1.... Se quedo esperando por CRMDI01ESTCLI que se encuentra en estado fallido\nCRMDI01VTAFE00\n\nTu número de caso es 16825563. desbloqueo usuario de controlm\n\nIntegracion de IBM\n\nabdias...\nSandra Carolina Sepúlveda\n\n3147262705\n\n\n16825414...12:03\n\nC:\\Program Files\\Git",
 			"file": "/C/Users/PerceptioSAS/OneDrive - Perceptio S.A.S/Juan David Rpo/Personal/un archivo",
 			"file_size": 1332,
 			"file_write_time": 132165106220465592,
 			"settings":
 			{
-				"buffer_size": 1525,
+				"buffer_size": 1545,
 				"line_ending": "Windows"
 			}
 		}
@@ -321,7 +321,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -350,7 +350,7 @@
 						"translation.y": 45.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -379,7 +379,7 @@
 						"translation.y": 39.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -388,15 +388,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1525,
+						"buffer_size": 1545,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1525,
-								1525
+								1545,
+								1545
 							]
 						],
 						"settings":
@@ -404,10 +404,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 934.0,
+						"translation.y": 1305.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
