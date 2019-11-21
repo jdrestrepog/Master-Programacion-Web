@@ -172,24 +172,23 @@
 	"buffers":
 	[
 		{
-			"contents": "Riodejaneiro2019.\n\nIseries Medellin\nRio20191\n\nFE\nTKCLUMHURTA\nBclumi33*\n\nselfservice_user\ncontrolm\n\nOctubre2019**\nUshuaia2019*\n\nTKCCAANPINE\nDiciembre2019**\n\nCANALESRFC\nCANALESRFC.2015\n\n\nSolucion error outlook \nhttps://www.petenetlive.com/KB/Article/0001549\n",
+			"contents": "Riodejaneiro2019.\n\nIseries Medellin\nRio20191\n\nFE\nTKCLUMHURTA\nBclumi33*\n\nselfservice_user\ncontrolm\n\nRio2020*\nCancun2020*\n\nOctubre2019**\nUshuaia2019*\n\nTKCCAANPINE\nDiciembre2019**\n\nCANALESRFC\nCANALESRFC.2015\n\n\nSolucion error outlook \nhttps://www.petenetlive.com/KB/Article/0001549\n\n https://pbmdebdepi02.bancolombia.corp\n https://pbmdebqcix02.bancolombia.corp:1443\n https://srvsappi.bancolombia.corp:443\n\n ticket:  16934540\n\n.aocK4NP8N/",
 			"file": "/C/Users/PerceptioSAS/OneDrive - Perceptio S.A.S/Juan David Rpo/Personal/un archivo",
-			"file_size": 278,
-			"file_write_time": 132183177837150524,
+			"file_size": 439,
+			"file_write_time": 132187388322026935,
 			"settings":
 			{
-				"buffer_size": 256,
+				"buffer_size": 433,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "Notas Reunión MDM\nArquitecto SOA\nCarlos Andres Lozano Arroyo\nArquitecta MDM\nDiana Cecilia Días Lopez\n\nServicio MDM\nAna Maria Sepulveda Naranjo\n\nActividades:\n\n1. Solicitar reglas de firewall\n2. Intercambio de llaves\n3. Intercambio de certificados.\n",
 			"file": "/C/Users/PerceptioSAS/OneDrive - Perceptio S.A.S/Juan David Rpo/Bancolombia/Ecosistema/Notas Reunión MDM",
-			"file_size": 153,
-			"file_write_time": 132164248185126669,
 			"settings":
 			{
-				"buffer_size": 247,
+				"buffer_size": 526,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -325,7 +324,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -334,43 +333,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 256,
+						"buffer_size": 433,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								256,
-								256
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/PerceptioSAS/OneDrive - Perceptio S.A.S/Juan David Rpo/Bancolombia/Ecosistema/Notas Reunión MDM",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 247,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								247,
-								247
+								119,
+								108
 							]
 						],
 						"settings":
@@ -382,6 +353,34 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/PerceptioSAS/OneDrive - Perceptio S.A.S/Juan David Rpo/Bancolombia/Ecosistema/Notas Reunión MDM",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								526,
+								526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
