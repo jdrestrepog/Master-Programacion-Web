@@ -93,7 +93,33 @@ $(document).ready(function(){
         $("#login").hide();
     }
 
+
+    //Acordeon 
     if(window.location.href.indexOf('about') > -1){
         $("#acordeon").accordion();
     }
+
+    //Reloj
+    if(window.location.href.indexOf('reloj') > -1){
+
+        setInterval(function(){
+            var reloj = moment().format("hh:mm:ss");
+            $("#reloj").html(reloj);
+        }, 1000);
+    }  
+    
+    //Reloj
+    if(window.location.href.indexOf('contact') > -1){
+        $("form input[name='fechan']").datepicker({
+            dateFormat: 'dd/mm/yy'
+        });
+
+        $.validate({
+            lang: 'es',
+            errorMessagePosition: 'top',
+            scrollTopError: true,
+
+        });
+    }
+
 });
