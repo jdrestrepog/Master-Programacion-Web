@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Proyecto con JS</title>
+    <!--Estilos CSS-->
+    <link rel="stylesheet" type="text/css" href="css/styles.css" />
+    <link id="theme" rel="stylesheet" type="text/css" href="css/green.css" />
+
+    <!--jQuery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <!--Moment-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/locale/es.js"></script>
+
+    <!--Scripts-->
+    <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+    <div id="selector-theme">
+        <div id="to-green"></div>
+        <div id="to-red"></div>
+        <div id="to-blue"></div>
+    </div>
+    <section id="global">
+        <!--Cabecera-->
+        <header>
+            <div id="logo">
+                <h1>PROYECTO JS</h1>
+            </div>
+            <div class="clearfix"></div>
+                <nav id="menu">
+                    <ul>
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="reloj.html">reloj</a></li>
+                        <li><a href="about.html">Sobre mi</a></li>
+                        <li><a href="contact.html">Contacto</a></li>
+                    </ul>
+                </nav>            
+        </header>
+
+        <!--Contenido-->
+        <section id="content">
+            <div id="box">
+                <!--reloj-->
+                <div id="reloj">
+
+                </div>
+            </div>
+            <aside id="sidebar">
+                <div id="about">
+                    <h4><span>¿Quién soy?</span></h4>
+                    <img src="img/caracol.jpg"/>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sapiente nostrum consectetur. Doloremque minus consequuntur culpa repellat! Magnam officiis tempora ipsum nemo, quod ratione, rerum magni vero debitis expedita harum.
+                    </p> 
+                </div>
+                <div id="login">
+                    <h4><span>Identificarse</span></h4>
+                    <form>
+                        <label for="name">Nombre</label>
+                        <input type="text" name="name" id="form_name"/>
+
+                        <label for="email">Correo</label>
+                        <input type="email" name="email"/>
+
+                        <label for="contrasena">Contraseña</label>
+                        <input type="password" name="password"/>
+
+                        <input type="submit" name="Entrar" />
+                    </form>
+                </div>
+            </aside>
+            <div class="clearfix"></div>
+        </section>
+    </section>
+    <footer>
+        Curso de Javascript
+        <a href="#" class="subir">Ir arriba</a>
+    </footer>
+</body>
+</html>
