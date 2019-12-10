@@ -13,7 +13,9 @@ export class ZapatillasComponent {
 
     constructor(){
         this.zapatillas = [
-            new Zapatilla("Rebook Classic", "Rebook", "Blancas", 80, true );
+            new Zapatilla("Rebook Classic", "Rebook", "Blancas", 80, true ),
+            new Zapatilla("Nike Zero", "Nije", "Azules", 90, true ),
+            new Zapatilla("Adidad Country", "Adidas", "Verdes", 100, true )
         ];
     }
 
