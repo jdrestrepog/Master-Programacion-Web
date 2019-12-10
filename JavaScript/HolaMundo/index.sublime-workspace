@@ -172,22 +172,24 @@
 	"buffers":
 	[
 		{
-			"contents": "Riodejaneiro2019.\n\nIseries Medellin\nRio20191\n\nFE\nTKCLUMHURTA\nBclumi33*\n\nselfservice_user\ncontrolm\n\nRio2020*\nCancun2020*\n\nOctubre2019**\nUshuaia2019*\n\nTKCCAANPINE\nDiciembre2019**\n\nCANALESRFC\nCANALESRFC.2015\n\n\nSolucion error outlook \nhttps://www.petenetlive.com/KB/Article/0001549\n\n https://pbmdebdepi02.bancolombia.corp\n https://pbmdebqcix02.bancolombia.corp:1443\n https://srvsappi.bancolombia.corp:443\n\n ticket:  16934540\n\n.aocK4NP8N/",
+			"contents": "Riodejaneiro2019.\nAnnaKarennina2020.\n\n\nIseries Medellin\nRio20191\n\nFE\nTKCLUMHURTA\nBclumi33*\n\nselfservice_user\ncontrolm\n\nRio2020*\nCancun2020*\n\nOctubre2019**\nUshuaia2019*\n\nTKCCAANPINE\nDiciembre2019**\n\nCANALESRFC\nCANALESRFC.2015\n\n\nSolucion error outlook \nhttps://www.petenetlive.com/KB/Article/0001549\n\n https://pbmdebdepi02.bancolombia.corp\n https://pbmdebqcix02.bancolombia.corp:1443\n https://srvsappi.bancolombia.corp:443\n\n\nCC_SOAPXI_LLAVEROMDM_SND\n\nMM_ConsultarLlaveroCliente_CRM_To_MDM_Request\nMM_ConsultarLlaveroCliente_MDM_To_CRM_Response\nOM_ConsultarLlaveroCliente_CRM_To_MDM\n\n\nOT CRM\nCD1K921395\n\nOT PI\nXD1K90001V\n\n\n\npSeries\nZSVER_DEPURAR_RUTA\n\n\nPedido Alejo: 1951055 \n\n1235592\n3200004899\nDOD: 1235592\n\n\ndtrujill@bancolombia.com.co\n\nOC: 2511588\n\n\nZCRM_SAP_DESARROLLADOR_COMPUES \n\nZVE0210_01\n\n\n Inicio > Administración de Identidades y Accesos > Gestión de Usuarios y Roles en Aplicaciones\n\n\nAbierto\nAbono Temporal\nCambio de Concepto\nPendiente Ajuste\nPendiente LES\nSolucionado\nTrámite Especial\nTrámite Externo\nTrámite Interno\nTrámite Segundo Nivel\nTrámite Segundo Nivel Ejecutad\nTrámite Segundo Nivel Ejecutado\nMal radicado\nSolicita respuesta escrita\nPendiente Documentación\n\njuanonlineconsulting.com\n\nInicio.00",
 			"file": "/C/Users/PerceptioSAS/OneDrive - Perceptio S.A.S/Juan David Rpo/Personal/un archivo",
-			"file_size": 439,
-			"file_write_time": 132187388322026935,
+			"file_size": 765,
+			"file_write_time": 132198813203740864,
 			"settings":
 			{
-				"buffer_size": 433,
+				"buffer_size": 1214,
 				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "Notas Reunión MDM\nArquitecto SOA\nCarlos Andres Lozano Arroyo\nArquitecta MDM\nDiana Cecilia Días Lopez\n\nServicio MDM\nAna Maria Sepulveda Naranjo\n\nActividades:\n\n1. Solicitar reglas de firewall\n2. Intercambio de llaves\n3. Intercambio de certificados.\n\n\n====Construcción Servicio de tracking=======\n1. Validar por cuanto tiempo se almacena en CRM la respuesta exitosa de Tracking.\n2. Validar actualización de requerimiento (No se consulta la llave nuevamente) Almacenar en CRM\n3. Telnet de PI a Broker tenet del puerto 1443 al 3360\n\n\nCS_CRM_MDM_CONSULTARLLAVERO\nCC_SOAPXI_CRM_SND\nCC_SOAP_MDM_RCV\n\nhttps://esbdev.bancolombia.corp:3360/ESB/SOAP/Default",
 			"file": "/C/Users/PerceptioSAS/OneDrive - Perceptio S.A.S/Juan David Rpo/Bancolombia/Ecosistema/Notas Reunión MDM",
+			"file_size": 549,
+			"file_write_time": 132187362634670346,
 			"settings":
 			{
-				"buffer_size": 526,
-				"encoding": "UTF-8",
+				"buffer_size": 645,
 				"line_ending": "Windows"
 			}
 		},
@@ -237,8 +239,6 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/PerceptioSAS/OneDrive - Perceptio S.A.S/Juan David Rpo/Personal/Master Programacion Web/JavaScript/HolaMundo",
-		"/C/Users/PerceptioSAS/OneDrive - Perceptio S.A.S/Juan David Rpo/Personal/Master Programacion Web/JavaScript/jQUERY"
 	],
 	"file_history":
 	[
@@ -332,15 +332,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 433,
+						"buffer_size": 1214,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								134,
-								121
+								154,
+								141
 							]
 						],
 						"settings":
@@ -360,15 +360,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 526,
+						"buffer_size": 645,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								183,
-								183
+								527,
+								527
 							]
 						],
 						"settings":
